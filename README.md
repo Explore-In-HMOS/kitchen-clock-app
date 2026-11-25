@@ -2,7 +2,7 @@
 
 # KitchenClock
 
-KitchenClock is a HarmonyOS Next wearable app designed to help with cooking by allowing users to set multiple alarms for different dishes.  
+KitchenClock is a HarmonyOS wearable app designed to help with cooking by allowing users to set multiple alarms for different dishes.  
 
 When the timer ends, the app notifies the user with **sound alerts**, **vibration**, and **system notifications**, ensuring that cooking time is never missed.
 
